@@ -1,2 +1,4 @@
 
 hello guys welcome to the class
+
+will start with git concepts
